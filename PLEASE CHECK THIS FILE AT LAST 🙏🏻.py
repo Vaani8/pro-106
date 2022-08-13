@@ -1,0 +1,11 @@
+a="Please"
+b="Project"
+c="Mam"
+d="Maximum"
+e="And"
+f="Mark"
+g="Points"
+h="The"
+i="Give"
+j="😊"
+print(c,a,f,h,b,e,i,d,g,j)
